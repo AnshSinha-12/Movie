@@ -7,7 +7,7 @@ Welcome to the **Movie Search Arena**, a web application designed to help you di
 
 ## Live Demo
 
-You can check out the live version of the application here: [Movie Search Arena](https://movie-search-arena.netlify.app/)
+You can check out the live version of the application here: [Movie Search Arena](https://movie-5gss.vercel.app/)
 
 ## Features
 
