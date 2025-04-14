@@ -30,13 +30,13 @@ To run the project locally, follow these steps:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/devagn611/MovieSearch-APP.git
+   git clone https://github.com/AnshSinha-12/Movie.git
    ```
 
 2. Navigate into the project directory:
 
    ```bash
-   cd movie-search-arena
+   cd Movie_Search_2
    ```
 
 3. Install the required packages:
@@ -62,7 +62,7 @@ To run the project locally, follow these steps:
 
 ## Contact
 
-Created by [Devagn Maniya](https://github.com/devagn611). Feel free to reach out if you have any questions or feedback!
+Created by [Ansh Sinha](https://github.com/AnshSinha-12). Feel free to reach out if you have any questions or feedback!
 
 ---
 
