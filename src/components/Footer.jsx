@@ -5,7 +5,7 @@ const Footer = () => {
     <footer className="bg-gray-800 text-white py-4 mt-10">
       <div className="container mx-auto flex justify-between items-center px-4">
         <p className="text-sm">
-          &copy; {new Date().getFullYear()} Archisman Das. All rights reserved.
+          &copy; {new Date().getFullYear()} Ansh Sinha. All rights reserved.
         </p>
         <a
           href="https://github.com/archis1405" 
